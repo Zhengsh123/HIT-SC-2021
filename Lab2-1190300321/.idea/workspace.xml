@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fccde12a-c814-4ff4-a764-3b2f10baca27" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/P1/graph/GraphInstanceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/P1/graph/GraphInstanceTest.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="234" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/P1/graph/ConcreteEdgesGraphTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#826#827#0" expanded="true" />
+                <element signature="e#875#876#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/P2/FriendshipGraph.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1896">
+              <caret line="89" column="32" selection-start-line="89" selection-start-column="32" selection-end-line="89" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#388#389#0" expanded="true" />
+                <element signature="e#428#429#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/P2/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+              <folding>
+                <element signature="e#284#285#0" expanded="true" />
+                <element signature="e#314#315#0" expanded="true" />
+                <element signature="e#342#343#0" expanded="true" />
+                <element signature="e#360#361#0" expanded="true" />
+                <element signature="e#397#398#0" expanded="true" />
+                <element signature="e#418#419#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/P1/graph/ConcreteVerticesGraphTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/P1/graph/GraphStaticTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/P1/graph/Graph.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+              <folding>
+                <element signature="e#950#951#0" expanded="true" />
+                <element signature="e#999#1000#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/P1/poet/GraphPoet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2544">
+              <caret line="117" column="18" selection-start-line="117" selection-start-column="18" selection-end-line="117" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/P1/graph/ConcreteVerticesGraph.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3720">
+              <caret line="157" column="6" selection-start-line="157" selection-start-column="6" selection-end-line="157" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/P1/graph/GraphInstanceTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="41" column="4" lean-forward="true" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test/P1/graph/GraphStaticTest.java" />
+        <option value="$PROJECT_DIR$/src/P1/poet/Main.java" />
+        <option value="$PROJECT_DIR$/src/P2/Person.java" />
+        <option value="$PROJECT_DIR$/src/P1/graph/Graph.java" />
+        <option value="$PROJECT_DIR$/test/P1/graph/ConcreteVerticesGraphTest.java" />
+        <option value="$PROJECT_DIR$/test/P1/graph/ConcreteEdgesGraphTest.java" />
+        <option value="$PROJECT_DIR$/test/P2/FriendshipGraphTest.java" />
+        <option value="$PROJECT_DIR$/src/P2/FriendshipGraph.java" />
+        <option value="$PROJECT_DIR$/src/P1/poet/main.txt" />
+        <option value="$PROJECT_DIR$/src/P1/graph/ConcreteVerticesGraph.java" />
+        <option value="$PROJECT_DIR$/src/P1/graph/ConcreteEdgesGraph.java" />
+        <option value="$PROJECT_DIR$/src/P1/poet/GraphPoet.java" />
+        <option value="$PROJECT_DIR$/test/P1/poet/GraphPoetTest.java" />
+        <option value="$PROJECT_DIR$/test/P1/graph/GraphInstanceTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-15" />
+    <option name="y" value="-15" />
+    <option name="width" value="1955" />
+    <option name="height" value="2095" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Lab2-1190300321" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2-1190300321" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab2-1190300321" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2-1190300321" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab2-1190300321" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2-1190300321" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab2-1190300321" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2-1190300321" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P1" type="462c0819:PsiDirectoryNode" />
+              <item name="graph" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab2-1190300321" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2-1190300321" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P1" type="462c0819:PsiDirectoryNode" />
+              <item name="graph" type="462c0819:PsiDirectoryNode" />
+              <item name="ConcreteEdgesGraph.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Lab2-1190300321" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2-1190300321" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P1" type="462c0819:PsiDirectoryNode" />
+              <item name="graph" type="462c0819:PsiDirectoryNode" />
+              <item name="ConcreteVerticesGraph.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Lab2-1190300321" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2-1190300321" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P1" type="462c0819:PsiDirectoryNode" />
+              <item name="poet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab2-1190300321" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2-1190300321" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="P2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab2-1190300321" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2-1190300321" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab2-1190300321" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2-1190300321" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="P1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab2-1190300321" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2-1190300321" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="P1" type="462c0819:PsiDirectoryNode" />
+              <item name="graph" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab2-1190300321" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2-1190300321" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="P1" type="462c0819:PsiDirectoryNode" />
+              <item name="poet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab2-1190300321" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab2-1190300321" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="P2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lab3-1190300321" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.FriendshipGraphTest">
+    <configuration name="ConcreteEdgesGraphTest and 1 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab2-1190300321" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="P1.graph.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="P1.graph" />
+      <option name="MAIN_CLASS_NAME" value="P1.graph.GraphInstanceTest" />
+      <option name="TEST_OBJECT" value="pattern" />
+      <patterns>
+        <pattern testClass="P1.graph.ConcreteEdgesGraphTest" />
+        <pattern testClass="P1.graph.ConcreteVerticesGraphTest" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConcreteVerticesGraphTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab2-1190300321" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="P1.graph.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="P1.graph" />
+      <option name="MAIN_CLASS_NAME" value="P1.graph.ConcreteVerticesGraphTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FriendshipGraphTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab2-1190300321" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="P2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="P2" />
+      <option name="MAIN_CLASS_NAME" value="P2.FriendshipGraphTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphPoetTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab2-1190300321" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="P1.poet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="P1.poet" />
+      <option name="MAIN_CLASS_NAME" value="P1.poet.GraphPoetTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphStaticTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab2-1190300321" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="P1.graph.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="P1.graph" />
+      <option name="MAIN_CLASS_NAME" value="P1.graph.GraphStaticTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FriendshipGraphTest" />
+        <item itemvalue="JUnit.GraphPoetTest" />
+        <item itemvalue="JUnit.GraphStaticTest" />
+        <item itemvalue="JUnit.ConcreteEdgesGraphTest and 1 more" />
+        <item itemvalue="JUnit.ConcreteVerticesGraphTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fccde12a-c814-4ff4-a764-3b2f10baca27" name="Default Changelist" comment="" />
+      <created>1622285590182</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622285590182</updated>
+      <workItem from="1622285593295" duration="11964000" />
+      <workItem from="1622334494082" duration="15534000" />
+      <workItem from="1622384483729" duration="4078000" />
+      <workItem from="1622457221770" duration="9434000" />
+      <workItem from="1622526344726" duration="6149000" />
+      <workItem from="1622707062527" duration="12558000" />
+      <workItem from="1622792758268" duration="8606000" />
+      <workItem from="1622857168548" duration="6005000" />
+      <workItem from="1622876947908" duration="16004000" />
+      <workItem from="1623131813200" duration="5097000" />
+      <workItem from="1623546049908" duration="2152000" />
+      <workItem from="1624795597360" duration="1201000" />
+      <workItem from="1624884990291" duration="30000" />
+      <workItem from="1624890798157" duration="513000" />
+      <workItem from="1624928213899" duration="2999000" />
+      <workItem from="1624947696509" duration="1048000" />
+      <workItem from="1625050571617" duration="1322000" />
+      <workItem from="1625125127134" duration="613000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ConcreteEdgesGraphTest_and_1_more - 2021.06.13 at 09h 27m 57s.xml">
+      <configuration name="ConcreteEdgesGraphTest and 1 more" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GraphStaticTest - 2021.06.13 at 09h 28m 02s.xml">
+      <configuration name="GraphStaticTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GraphPoetTest - 2021.06.13 at 09h 28m 07s.xml">
+      <configuration name="GraphPoetTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FriendshipGraphTest - 2021.06.13 at 09h 28m 12s.xml">
+      <configuration name="FriendshipGraphTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConcreteEdgesGraphTest - 2021.06.13 at 09h 28m 20s.xml">
+      <configuration name="ConcreteEdgesGraphTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConcreteVerticesGraphTest - 2021.06.13 at 09h 28m 27s.xml">
+      <configuration name="ConcreteVerticesGraphTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConcreteEdgesGraphTest_and_1_more - 2021.06.13 at 09h 28m 36s.xml">
+      <configuration name="ConcreteEdgesGraphTest and 1 more" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GraphStaticTest - 2021.06.13 at 09h 28m 45s.xml">
+      <configuration name="GraphStaticTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GraphPoetTest - 2021.06.13 at 09h 28m 52s.xml">
+      <configuration name="GraphPoetTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FriendshipGraphTest - 2021.06.13 at 09h 29m 25s.xml">
+      <configuration name="FriendshipGraphTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="105307000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1549" height="837" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18218352" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21923621" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3281471" />
+      <window_info anchor="bottom" id="Run with Parallel Runner" order="11" weight="0.32909605" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Debug with Parallel Runner" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Maven" order="1" sideWeight="0.4978903" weight="0.32953784" />
+      <window_info anchor="right" id="Ant Build" order="2" sideWeight="0.4978903" weight="0.24983256" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Coverage" order="5" sideWeight="0.5021097" side_tool="true" visible="true" weight="0.111185536" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Database" order="7" sideWeight="0.49894738" weight="0.32953784" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22371066" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21923621" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3281471" />
+      <window_info anchor="bottom" id="Run with Parallel Runner" order="11" weight="0.32909605" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Debug with Parallel Runner" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Maven" order="1" sideWeight="0.4978903" weight="0.32953784" />
+      <window_info anchor="right" id="Ant Build" order="2" sideWeight="0.4978903" weight="0.24983256" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Coverage" order="5" sideWeight="0.5021097" side_tool="true" weight="0.32953784" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Database" order="7" sideWeight="0.49894738" weight="0.32953784" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Lab2_1190300321$GraphPoetTest_testnoSelect.ic" NAME="GraphPoetTest.testnoSelect Coverage Results" MODIFIED="1622464163585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>P1.poet.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab2_1190300321$GraphPoetTest_testmutiLines.ic" NAME="GraphPoetTest.testmutiLines Coverage Results" MODIFIED="1622464130269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>P1.poet.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab2_1190300321$ConcreteEdgesGraphTest_testGettarget.ic" NAME="ConcreteEdgesGraphTest.testGettarget Coverage Results" MODIFIED="1622302029173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>P1.graph.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab2_1190300321$FriendshipGraphTest.ic" NAME="FriendshipGraphTest Coverage Results" MODIFIED="1623547764305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>P2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab2_1190300321$ConcreteVerticesGraphTest_testConcreteEdgesGraphtoString.ic" NAME="ConcreteVerticesGraphTest.testConcreteEdgesGraphtoString Coverage Results" MODIFIED="1622301706848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>P1.graph.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab2_1190300321$ConcreteEdgesGraphTest_and_1_more.ic" NAME="ConcreteEdgesGraphTest and 1 more Coverage Results" MODIFIED="1623547715141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>P1.graph.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab2_1190300321$GraphStaticTest.ic" NAME="GraphStaticTest Coverage Results" MODIFIED="1623547723765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>P1.graph.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab2_1190300321$GraphPoetTest.ic" NAME="GraphPoetTest Coverage Results" MODIFIED="1623547731382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>P1.poet.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab2_1190300321$ConcreteVerticesGraphTest_testaddTarget.ic" NAME="ConcreteVerticesGraphTest.testaddTarget Coverage Results" MODIFIED="1622708579758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>P1.graph.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab2_1190300321$GraphPoetTest_testtoString.ic" NAME="GraphPoetTest.testtoString Coverage Results" MODIFIED="1622465066745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>P1.poet.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab2_1190300321$ConcreteEdgesGraphTest_testConcreteEdgesGraphadd.ic" NAME="ConcreteEdgesGraphTest.testConcreteEdgesGraphadd Coverage Results" MODIFIED="1622530222594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>P1.graph.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab2_1190300321$ConcreteVerticesGraphTest_testConcreteVerticesGraphsources.ic" NAME="ConcreteVerticesGraphTest.testConcreteVerticesGraphsources Coverage Results" MODIFIED="1622386506779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>P1.graph.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab2_1190300321$ConcreteVerticesGraphTest_testaddSource.ic" NAME="ConcreteVerticesGraphTest.testaddSource Coverage Results" MODIFIED="1622363521407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>P1.graph.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab2_1190300321$GraphPoetTest_testoneLine.ic" NAME="GraphPoetTest.testoneLine Coverage Results" MODIFIED="1622464103067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>P1.poet.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab2_1190300321$ConcreteVerticesGraphTest_testConcreteVerticesGraphremove.ic" NAME="ConcreteVerticesGraphTest.testConcreteVerticesGraphremove Coverage Results" MODIFIED="1622386935178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>P1.graph.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab2_1190300321$ConcreteEdgesGraphTest_testConcreteEdgesGraphtargets.ic" NAME="ConcreteEdgesGraphTest.testConcreteEdgesGraphtargets Coverage Results" MODIFIED="1622363617346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>P1.graph.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab2_1190300321$FriendshipGraphTest_addEdgeTest.ic" NAME="FriendshipGraphTest.addEdgeTest Coverage Results" MODIFIED="1622529709027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>P2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab2_1190300321$GraphPoetTest_testEmpty.ic" NAME="GraphPoetTest.testEmpty Coverage Results" MODIFIED="1622464009027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>P1.poet.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab2_1190300321$ConcreteVerticesGraphTest.ic" NAME="ConcreteVerticesGraphTest Coverage Results" MODIFIED="1623547706158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>P1.graph.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab2_1190300321$Main.ic" NAME="Main Coverage Results" MODIFIED="1622466767672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>P1.poet.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab2_1190300321$ConcreteEdgesGraphTest_testConcreteEdgesGraphremove.ic" NAME="ConcreteEdgesGraphTest.testConcreteEdgesGraphremove Coverage Results" MODIFIED="1622530466460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>P1.graph.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab2_1190300321$ConcreteVerticesGraphTest_testConcreteVerticesGraphtoString.ic" NAME="ConcreteVerticesGraphTest.testConcreteVerticesGraphtoString Coverage Results" MODIFIED="1622360005749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>P1.graph.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab2_1190300321$ConcreteEdgesGraphTest_testConcreteEdgesGraphtoString.ic" NAME="ConcreteEdgesGraphTest.testConcreteEdgesGraphtoString Coverage Results" MODIFIED="1622385685064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>P1.graph.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab2_1190300321$GraphPoetTest_testSelect.ic" NAME="GraphPoetTest.testSelect Coverage Results" MODIFIED="1622465228983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>P1.poet.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab2_1190300321$ConcreteEdgesGraphTest_testConcreteEdgesGraphset.ic" NAME="ConcreteEdgesGraphTest.testConcreteEdgesGraphset Coverage Results" MODIFIED="1622531615841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>P1.graph.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab2_1190300321$ConcreteEdgesGraphTest.ic" NAME="ConcreteEdgesGraphTest Coverage Results" MODIFIED="1623547698495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>P1.graph.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab2_1190300321$FriendshipGraphTest_getDistanceTest.ic" NAME="FriendshipGraphTest.getDistanceTest Coverage Results" MODIFIED="1622529225872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>P2.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$PROJECT_DIR$/lib/junit-4.13.2.jar!/org/junit/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="184" column="21" selection-start-line="184" selection-start-column="21" selection-end-line="184" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P1/poet/mugar-omni-theater.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="54" lean-forward="true" selection-start-column="54" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Spring2021_HITCS_SC_Lab2-master/P1/src/poet/GraphPoet.java" />
+    <entry file="jar://E:/JDK/JDK8/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P1/poet/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="23" column="66" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P1/poet/main.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="44" selection-start-column="44" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/P2/FriendshipGraphTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/P1/poet/GraphPoetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P1/graph/ConcreteEdgesGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/P1/graph/ConcreteEdgesGraphTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#826#827#0" expanded="true" />
+            <element signature="e#875#876#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P2/FriendshipGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1896">
+          <caret line="89" column="32" selection-start-line="89" selection-start-column="32" selection-end-line="89" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P2/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+          <folding>
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+            <element signature="e#397#398#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/P1/graph/ConcreteVerticesGraphTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/P1/graph/GraphStaticTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P1/graph/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+          <folding>
+            <element signature="e#950#951#0" expanded="true" />
+            <element signature="e#999#1000#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P1/poet/GraphPoet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2544">
+          <caret line="117" column="18" selection-start-line="117" selection-start-column="18" selection-end-line="117" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P1/graph/ConcreteVerticesGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3720">
+          <caret line="157" column="6" selection-start-line="157" selection-start-column="6" selection-end-line="157" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/P1/graph/GraphInstanceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="41" column="4" lean-forward="true" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,1205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="60eee0a1-b7bd-4c5c-b563-cbadf4741cfb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/test/APISet/DutyIntervalSet/DutyIntervalSetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/APISet/DutyIntervalSet/DutyIntervalSetTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/APISet/ProcessIntervalSet/ProcessIntervalSetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/APISet/ProcessIntervalSet/ProcessIntervalSetTest.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="47" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/APISet/CourseIntervalSet/CourseIntervalSetTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/APISet/DutyIntervalSet/DateCaculateTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/APISet/DutyIntervalSet/DutyIntervalSetTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/APISet/ProcessIntervalSet/ProcessIntervalSetTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/ConcreteSet/NoBlankIntervalSetTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#418#426#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/ConcreteSet/NonOverlapIntervalSetTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/ConcreteSet/PeriodicIntervalSetTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/IntervalSet/CommonIntervalSetTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/IntervalSet/CommonMultiIntervalSetTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="10" column="41" lean-forward="true" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/IntervalSet/StaticTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test/ConcreteSet/NoBlankIntervalSetTest.java" />
+        <option value="$PROJECT_DIR$/test/APISet/CourseIntervalSet/PersonTest.java" />
+        <option value="$PROJECT_DIR$/test/APISet/DutyIntervalSet/PersonTest.java" />
+        <option value="$PROJECT_DIR$/test/APISet/DutyIntervalSet/EmployeeTest.java" />
+        <option value="$PROJECT_DIR$/src/APISet/DutyIntervalSet/Person.java" />
+        <option value="$PROJECT_DIR$/src/APISet/DutyIntervalSet/Employee.java" />
+        <option value="$PROJECT_DIR$/src/APISet/DutyIntervalSet/IdutyIntervalSet.java" />
+        <option value="$PROJECT_DIR$/src/APISet/DutyIntervalSet/DateTransform.java" />
+        <option value="$PROJECT_DIR$/src/IntervalSet/MultiIntervalSet.java" />
+        <option value="$PROJECT_DIR$/src/APISet/DutyIntervalSet/DateCaculate.java" />
+        <option value="$PROJECT_DIR$/test/ConcreteSet/PeriodicIntervalSetTest.java" />
+        <option value="$PROJECT_DIR$/test/IntervalSet/StaticTest.java" />
+        <option value="$PROJECT_DIR$/test/IntervalSet/CommonMultiIntervalSetTest.java" />
+        <option value="$PROJECT_DIR$/src/ConcreteSet/NoBlankIntervalSetImpl.java" />
+        <option value="$PROJECT_DIR$/src/IntervalSet/IntervalSet.java" />
+        <option value="$PROJECT_DIR$/test/API/DutyRoster/EmployeeTest.java" />
+        <option value="$PROJECT_DIR$/test/APISet/DutyIntervalSet/DateCaculateTest.java" />
+        <option value="$PROJECT_DIR$/src/API/DutyRoster/Employee.java" />
+        <option value="$PROJECT_DIR$/src/APISet/DutyIntervalSet/DateCaculateImpl.java" />
+        <option value="$PROJECT_DIR$/test/APISet/ProcessIntervalSet/ProcessIntervalSet.java" />
+        <option value="$PROJECT_DIR$/src/APISet/ProcessIntervalSet/IProcessIntervalSet.java" />
+        <option value="$PROJECT_DIR$/src/ConcreteSet/NonOverlapIntervalSet.java" />
+        <option value="$PROJECT_DIR$/test/ConcreteSet/NonOverlapIntervalSetTest.java" />
+        <option value="$PROJECT_DIR$/src/API/ProcessSchedule/Process.java" />
+        <option value="$PROJECT_DIR$/src/APISet/ProcessIntervalSet/ProcessIntervalSet.java" />
+        <option value="$PROJECT_DIR$/test/API/ProcessSchedule/ProcessScheduleTest.java" />
+        <option value="$PROJECT_DIR$/test/APISet/CourseIntervalSet/CourseIntevalSetTest.java" />
+        <option value="$PROJECT_DIR$/src/API/APIs.java" />
+        <option value="$PROJECT_DIR$/src/API/CourseSchedule/Course.java" />
+        <option value="$PROJECT_DIR$/src/APISet/CourseIntervalSet/IcourseIntervalSet.java" />
+        <option value="$PROJECT_DIR$/test/API/CourseSchedule/CourseScheduleTest.java" />
+        <option value="$PROJECT_DIR$/src/API/ProcessSchedule/ProcessScheduleApp.java" />
+        <option value="$PROJECT_DIR$/src/API/CourseSchedule/CourseScheduleAPP.java" />
+        <option value="$PROJECT_DIR$/src/API/DutyRoster/DutyRoster.java" />
+        <option value="$PROJECT_DIR$/src/API/RegularPaeser.java" />
+        <option value="$PROJECT_DIR$/src/IntervalSet/CommonIntervalSet.java" />
+        <option value="$PROJECT_DIR$/test/IntervalSet/CommonIntervalSetTest.java" />
+        <option value="$PROJECT_DIR$/src/APISet/DutyIntervalSet/IDutyIntervalSet.java" />
+        <option value="$PROJECT_DIR$/src/APISet/DutyIntervalSet/DutyIntervalSet.java" />
+        <option value="$PROJECT_DIR$/test/API/APIsTest.java" />
+        <option value="$PROJECT_DIR$/test/API/DutyRoster/DutyRosterTest.java" />
+        <option value="$PROJECT_DIR$/src/ConcreteSet/PeriodicIntervalSet.java" />
+        <option value="$PROJECT_DIR$/test/APISet/CourseIntervalSet/CourseIntervalSetTest.java" />
+        <option value="$PROJECT_DIR$/src/ConcreteSet/PeriodicIntervalSetImpl.java" />
+        <option value="$PROJECT_DIR$/src/IntervalSet/CommonMultiIntervalSet.java" />
+        <option value="$PROJECT_DIR$/src/ConcreteSet/NonOverlapIntervalSetImpl.java" />
+        <option value="$PROJECT_DIR$/src/API/APIsImpl.java" />
+        <option value="$PROJECT_DIR$/src/APISet/CourseIntervalSet/CourseIntervalSet.java" />
+        <option value="$PROJECT_DIR$/src/API/DutyRoster/DutyRosterApp.java" />
+        <option value="$PROJECT_DIR$/test/APISet/DutyIntervalSet/DutyIntervalSetTest.java" />
+        <option value="$PROJECT_DIR$/test/APISet/ProcessIntervalSet/ProcessIntervalSetTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-15" />
+    <option name="y" value="-15" />
+    <option name="width" value="1955" />
+    <option name="height" value="2095" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Lab3-1190300321" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab3-1190300321" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab3-1190300321" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab3-1190300321" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab3-1190300321" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab3-1190300321" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="API" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab3-1190300321" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab3-1190300321" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="API" type="462c0819:PsiDirectoryNode" />
+              <item name="CourseSchedule" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab3-1190300321" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab3-1190300321" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="API" type="462c0819:PsiDirectoryNode" />
+              <item name="DutyRoster" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab3-1190300321" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab3-1190300321" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="API" type="462c0819:PsiDirectoryNode" />
+              <item name="ProcessSchedule" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab3-1190300321" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab3-1190300321" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="APISet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab3-1190300321" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab3-1190300321" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="APISet" type="462c0819:PsiDirectoryNode" />
+              <item name="CourseIntervalSet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab3-1190300321" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab3-1190300321" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="APISet" type="462c0819:PsiDirectoryNode" />
+              <item name="DutyIntervalSet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab3-1190300321" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab3-1190300321" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="APISet" type="462c0819:PsiDirectoryNode" />
+              <item name="ProcessIntervalSet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab3-1190300321" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab3-1190300321" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ConcreteSet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab3-1190300321" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab3-1190300321" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="IntervalSet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab3-1190300321" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab3-1190300321" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab3-1190300321" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab3-1190300321" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="API" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab3-1190300321" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab3-1190300321" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="API" type="462c0819:PsiDirectoryNode" />
+              <item name="CourseSchedule" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab3-1190300321" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab3-1190300321" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="API" type="462c0819:PsiDirectoryNode" />
+              <item name="DutyRoster" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab3-1190300321" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab3-1190300321" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="API" type="462c0819:PsiDirectoryNode" />
+              <item name="ProcessSchedule" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab3-1190300321" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab3-1190300321" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="APISet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab3-1190300321" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab3-1190300321" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="APISet" type="462c0819:PsiDirectoryNode" />
+              <item name="CourseIntervalSet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab3-1190300321" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab3-1190300321" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="APISet" type="462c0819:PsiDirectoryNode" />
+              <item name="DutyIntervalSet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab3-1190300321" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab3-1190300321" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="APISet" type="462c0819:PsiDirectoryNode" />
+              <item name="ProcessIntervalSet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab3-1190300321" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab3-1190300321" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="ConcreteSet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab3-1190300321" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab3-1190300321" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="IntervalSet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lab3-1190300321" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.statistic.project.settings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.StaticTest">
+    <configuration name="CommonIntervalSetTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab3-1190300321" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IntervalSet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="IntervalSet" />
+      <option name="MAIN_CLASS_NAME" value="IntervalSet.CommonIntervalSetTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommonMultiIntervalSetTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab3-1190300321" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IntervalSet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="IntervalSet" />
+      <option name="MAIN_CLASS_NAME" value="IntervalSet.CommonMultiIntervalSetTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NonOverlapIntervalSetTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab3-1190300321" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ConcreteSet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ConcreteSet" />
+      <option name="MAIN_CLASS_NAME" value="ConcreteSet.NonOverlapIntervalSetTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PeriodicIntervalSetTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab3-1190300321" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ConcreteSet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ConcreteSet" />
+      <option name="MAIN_CLASS_NAME" value="ConcreteSet.PeriodicIntervalSetTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StaticTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab3-1190300321" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IntervalSet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="IntervalSet" />
+      <option name="MAIN_CLASS_NAME" value="IntervalSet.StaticTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StaticTest" />
+        <item itemvalue="JUnit.CommonMultiIntervalSetTest" />
+        <item itemvalue="JUnit.CommonIntervalSetTest" />
+        <item itemvalue="JUnit.PeriodicIntervalSetTest" />
+        <item itemvalue="JUnit.NonOverlapIntervalSetTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60eee0a1-b7bd-4c5c-b563-cbadf4741cfb" name="Default Changelist" comment="" />
+      <created>1623737416966</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623737416966</updated>
+      <workItem from="1623737419592" duration="4244000" />
+      <workItem from="1624340787033" duration="6141000" />
+      <workItem from="1624786444927" duration="8667000" />
+      <workItem from="1624885021402" duration="8676000" />
+      <workItem from="1624928225283" duration="8229000" />
+      <workItem from="1624947717590" duration="11134000" />
+      <workItem from="1625050654395" duration="11317000" />
+      <workItem from="1625125145953" duration="23436000" />
+      <workItem from="1625187955959" duration="19140000" />
+      <workItem from="1625226384759" duration="437000" />
+      <workItem from="1625226837435" duration="19840000" />
+      <workItem from="1625269401860" duration="48708000" />
+      <workItem from="1625359938206" duration="1442000" />
+      <workItem from="1625387708083" duration="185000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="DutyIntervalSetTest - 2021.07.04 at 16h 35m 53s.xml">
+      <configuration name="DutyIntervalSetTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DutyIntervalSetTest - 2021.07.04 at 16h 36m 09s.xml">
+      <configuration name="DutyIntervalSetTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProcessIntervalSetTest - 2021.07.04 at 16h 36m 14s.xml">
+      <configuration name="ProcessIntervalSetTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProcessIntervalSetTest - 2021.07.04 at 16h 36m 29s.xml">
+      <configuration name="ProcessIntervalSetTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NoBlankIntervalSetTest - 2021.07.04 at 16h 36m 33s.xml">
+      <configuration name="NoBlankIntervalSetTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NonOverlapIntervalSetTest - 2021.07.04 at 16h 36m 37s.xml">
+      <configuration name="NonOverlapIntervalSetTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PeriodicIntervalSetTest - 2021.07.04 at 16h 36m 41s.xml">
+      <configuration name="PeriodicIntervalSetTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CommonIntervalSetTest - 2021.07.04 at 16h 36m 44s.xml">
+      <configuration name="CommonIntervalSetTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CommonMultiIntervalSetTest - 2021.07.04 at 16h 36m 48s.xml">
+      <configuration name="CommonMultiIntervalSetTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StaticTest - 2021.07.04 at 16h 36m 53s.xml">
+      <configuration name="StaticTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="171596000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21902211" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2503536" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5003349" side_tool="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run with Parallel Runner" order="12" />
+      <window_info anchor="bottom" id="Debug with Parallel Runner" order="13" weight="0.32956153" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32956153" />
+      <window_info anchor="bottom" id="Statistic" order="15" sideWeight="0.4996651" weight="0.32956153" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.49801588" weight="0.24983256" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" sideWeight="0.5019841" side_tool="true" weight="0.21768253" />
+      <window_info anchor="right" id="Database" order="9" weight="0.32953784" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23643671" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.25176802" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5003349" side_tool="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run with Parallel Runner" order="12" />
+      <window_info anchor="bottom" id="Debug with Parallel Runner" order="13" weight="0.32956153" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32956153" />
+      <window_info anchor="bottom" id="Statistic" order="15" sideWeight="0.4996651" weight="0.32956153" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.49801588" weight="0.24983256" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" sideWeight="0.5019841" side_tool="true" weight="0.14333557" />
+      <window_info anchor="right" id="Database" order="9" weight="0.32953784" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Lab3_1190300321$CommonMultiIntervalSetTest_removeTest.ic" NAME="CommonMultiIntervalSetTest.removeTest Coverage Results" MODIFIED="1624933900348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>IntervalSet.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab3_1190300321$CourseScheduleTest.ic" NAME="CourseScheduleTest Coverage Results" MODIFIED="1625360807280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>API.CourseSchedule.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab3_1190300321$StaticTest_testEmptyMultiIntervalSetEmpty.ic" NAME="StaticTest.testEmptyMultiIntervalSetEmpty Coverage Results" MODIFIED="1624933797973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>IntervalSet.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab3_1190300321$CommonMultiIntervalSetTest.ic" NAME="CommonMultiIntervalSetTest Coverage Results" MODIFIED="1625331688488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>IntervalSet.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab3_1190300321$NonOverlapIntervalSetTest.ic" NAME="NonOverlapIntervalSetTest Coverage Results" MODIFIED="1625331550281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ConcreteSet.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab3_1190300321$NonOverlapIntervalSetTest_checkNoOverlapTest.ic" NAME="NonOverlapIntervalSetTest.checkNoOverlapTest Coverage Results" MODIFIED="1624971363458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ConcreteSet.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab3_1190300321$CourseIntevalSetTest.ic" NAME="CourseIntevalSetTest Coverage Results" MODIFIED="1625281999633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>APISet.CourseIntervalSet.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab3_1190300321$ProcessIntervalSetTest.ic" NAME="ProcessIntervalSetTest Coverage Results" MODIFIED="1625331535973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>APISet.ProcessIntervalSet.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab3_1190300321$IntervalSetTest_InsertTest.ic" NAME="IntervalSetTest.InsertTest Coverage Results" MODIFIED="1624795471150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Intervalset.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab3_1190300321$NoBlankIntervalSetTest.ic" NAME="NoBlankIntervalSetTest Coverage Results" MODIFIED="1625331544016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ConcreteSet.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab3_1190300321$DutyIntervalSetTest.ic" NAME="DutyIntervalSetTest Coverage Results" MODIFIED="1625331528752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>APISet.DutyIntervalSet.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab3_1190300321$ProcessScheduleTest.ic" NAME="ProcessScheduleTest Coverage Results" MODIFIED="1625331502564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>API.ProcessSchedule.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab3_1190300321$PeriodicIntervalSetTest.ic" NAME="PeriodicIntervalSetTest Coverage Results" MODIFIED="1625331560256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ConcreteSet.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab3_1190300321$DateCaculateTest.ic" NAME="DateCaculateTest Coverage Results" MODIFIED="1625331521896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>APISet.DutyIntervalSet.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab3_1190300321$EmployeeTest.ic" NAME="EmployeeTest Coverage Results" MODIFIED="1625331481733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>API.DutyRoster.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab3_1190300321$PeriodicIntervalSetTest_removeTest.ic" NAME="PeriodicIntervalSetTest.removeTest Coverage Results" MODIFIED="1625128204146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ConcreteSet.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab3_1190300321$APIsTest.ic" NAME="APIsTest Coverage Results" MODIFIED="1625331496077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>API.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab3_1190300321$IntervalSetTest__1_.ic" NAME="CommonIntervalSetTest Coverage Results" MODIFIED="1624799251572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>IntervalSet.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab3_1190300321$PeriodicIntervalSetTest_intervalTest.ic" NAME="PeriodicIntervalSetTest.intervalTest Coverage Results" MODIFIED="1625142254227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ConcreteSet.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab3_1190300321$CourseIntervalSetTest.ic" NAME="CourseIntervalSetTest Coverage Results" MODIFIED="1625331513408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>APISet.CourseIntervalSet.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab3_1190300321$IntervalSetTest.ic" NAME="IntervalSetTest Coverage Results" MODIFIED="1624795565774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Intervalset.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab3_1190300321$DutyRosterTest.ic" NAME="DutyRosterTest Coverage Results" MODIFIED="1625335212749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>API.DutyRoster.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab3_1190300321$NoBlankIntervalSetTest_checkNoBlank.ic" NAME="NoBlankIntervalSetTest.checkNoBlank Coverage Results" MODIFIED="1625065668859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ConcreteSet.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab3_1190300321$CommonIntervalSetTest_InsertTest.ic" NAME="CommonIntervalSetTest.InsertTest Coverage Results" MODIFIED="1624966269721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>IntervalSet.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab3_1190300321$DutyRosterApp.ic" NAME="DutyRosterApp Coverage Results" MODIFIED="1625361033285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>API.DutyRoster.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab3_1190300321$PersonTest__1_.ic" NAME="PersonTest (1) Coverage Results" MODIFIED="1625146349275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>APISet.DutyIntervalSet.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab3_1190300321$StaticTest.ic" NAME="StaticTest Coverage Results" MODIFIED="1625331696007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>IntervalSet.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab3_1190300321$CommonIntervalSetTest.ic" NAME="CommonIntervalSetTest Coverage Results" MODIFIED="1625331681011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>IntervalSet.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab3_1190300321$PersonTest.ic" NAME="PersonTest Coverage Results" MODIFIED="1625146273254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>APISet.CourseIntervalSet.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Lab3_1190300321$DutyRosterTest_setTableTest.ic" NAME="DutyRosterTest.setTableTest Coverage Results" MODIFIED="1625331437325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>API.DutyRoster.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ConcreteSet/NoBlankIntervalSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="20" column="96" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="96" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/APISet/DutyIntervalSet/DateCaculate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="21" column="51" lean-forward="true" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ConcreteSet/NoBlankIntervalSetImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="52" column="40" selection-start-line="52" selection-start-column="40" selection-end-line="52" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/JDK/JDK8/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="447" column="8" selection-start-line="447" selection-start-column="8" selection-end-line="447" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IntervalSet/MultiIntervalSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="38" column="76" lean-forward="true" selection-start-line="38" selection-start-column="76" selection-end-line="38" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IntervalSet/IntervalSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/API/DutyRoster/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="56" column="71" lean-forward="true" selection-start-line="56" selection-start-column="71" selection-end-line="56" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/API/CourseSchedule/CourseIntervalSet.java" />
+    <entry file="file://$PROJECT_DIR$/test/API/ProcessSchedule/ProcessIntervalSet.java" />
+    <entry file="file://$PROJECT_DIR$/test/APISet/CourseIntervalSet/CourseIntervalSet.java" />
+    <entry file="file://$PROJECT_DIR$/test/APISet/ProcessIntervalSet/ProcessIntervalSet.java" />
+    <entry file="file://$PROJECT_DIR$/src/ConcreteSet/NonOverlapIntervalSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/APISet/ProcessIntervalSet/IProcessIntervalSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/API/ProcessSchedule/Process.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1272">
+          <caret line="59" column="5" lean-forward="true" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+          <folding>
+            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/APISet/ProcessIntervalSet/ProcessIntervalSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="64" column="5" lean-forward="true" selection-start-line="58" selection-start-column="4" selection-end-line="64" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4161#4170#0" expanded="true" />
+            <element signature="e#4474#4475#0" expanded="true" />
+            <element signature="e#4532#4533#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/APISet/DutyIntervalSet/DateCaculateImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/API/APIs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="55" column="88" lean-forward="true" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/APISet/CourseIntervalSet/IcourseIntervalSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="53" column="23" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/API/CourseSchedule/Course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="49" column="29" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/JDK/JDK8/src.zip!/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="1370" column="16" selection-start-line="1370" selection-start-column="16" selection-end-line="1370" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/API/ProcessSchedule/ProcessScheduleApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="129" column="19" selection-start-line="129" selection-start-column="19" selection-end-line="129" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3179#3180#0" expanded="true" />
+            <element signature="e#3246#3247#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/RegularAnalysis.java" />
+    <entry file="file://$PROJECT_DIR$/../Lab2-1190300321/test/P1/poet/GraphPoetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="46" column="83" selection-start-line="46" selection-start-column="56" selection-end-line="46" selection-end-column="83" />
+          <folding>
+            <element signature="e#0#3205#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/API/DutyRoster/DutyRoster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="85" column="18" selection-start-line="85" selection-start-column="18" selection-end-line="85" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/API/RegularPaeser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1104">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/APISet/DutyIntervalSet/IDutyIntervalSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IntervalSet/CommonIntervalSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="32" column="37" lean-forward="true" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ConcreteSet/PeriodicIntervalSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="74" column="26" selection-start-line="74" selection-start-column="26" selection-end-line="74" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ConcreteSet/NonOverlapIntervalSetImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="36" column="17" lean-forward="true" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/API/APIsImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="209" column="25" lean-forward="true" selection-start-line="209" selection-start-column="25" selection-end-line="209" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Similarity#0;class#APIsImpl#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IntervalSet/CommonMultiIntervalSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="113" column="27" lean-forward="true" selection-start-line="113" selection-start-column="27" selection-end-line="113" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/API/CourseSchedule/CourseScheduleAPP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="88" column="31" lean-forward="true" selection-start-line="88" selection-start-column="31" selection-end-line="88" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ConcreteSet/PeriodicIntervalSetImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2821">
+          <caret line="141" column="26" lean-forward="true" selection-start-line="141" selection-start-column="19" selection-end-line="141" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/APISet/CourseIntervalSet/CourseIntervalSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="42" column="38" lean-forward="true" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3669#3670#0" expanded="true" />
+            <element signature="e#3735#3736#0" expanded="true" />
+            <element signature="e#3796#3797#0" expanded="true" />
+            <element signature="e#3864#3865#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/API/DutyRoster/DutyRosterApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="344" column="29" selection-start-line="344" selection-start-column="29" selection-end-line="344" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2255#2256#0" expanded="true" />
+            <element signature="e#2289#2290#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/APISet/DutyIntervalSet/DutyIntervalSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="744">
+          <caret line="31" column="76" lean-forward="true" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="76" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#6279#6280#0" expanded="true" />
+            <element signature="e#6339#6340#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/API/CourseSchedule/CourseScheduleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/API/DutyRoster/DutyRosterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/API/DutyRoster/EmployeeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/API/ProcessSchedule/ProcessScheduleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/API/APIsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/APISet/CourseIntervalSet/CourseIntervalSetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/APISet/DutyIntervalSet/DateCaculateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/APISet/DutyIntervalSet/DutyIntervalSetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/APISet/ProcessIntervalSet/ProcessIntervalSetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ConcreteSet/NoBlankIntervalSetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#418#426#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ConcreteSet/NonOverlapIntervalSetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ConcreteSet/PeriodicIntervalSetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/IntervalSet/CommonIntervalSetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/IntervalSet/CommonMultiIntervalSetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="10" column="41" lean-forward="true" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/IntervalSet/StaticTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
